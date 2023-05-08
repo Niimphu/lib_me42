@@ -6,7 +6,7 @@
 #    By: yiwong <yiwong@student.42wolfsburg.de>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/08 12:24:43 by yiwong            #+#    #+#              #
-#    Updated: 2023/05/08 12:32:21 by yiwong           ###   ########.fr        #
+#    Updated: 2023/05/08 13:03:40 by yiwong           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ SRC = free_pointers.c
 
 OBJ = ${SRC:.c=.o}
 
-NAME = lib_me42.a
+NAME = libme42.a
 
 all : $(NAME)
 

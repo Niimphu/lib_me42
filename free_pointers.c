@@ -6,11 +6,11 @@
 /*   By: yiwong <yiwong@student.42wolfsburg.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/08 12:21:36 by yiwong            #+#    #+#             */
-/*   Updated: 2023/05/08 12:22:13 by yiwong           ###   ########.fr       */
+/*   Updated: 2023/05/08 12:58:37 by yiwong           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mylib42.h"
+#include "lib_me42.h"
 
 void	free_pointer(char *str)
 {
